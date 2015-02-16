@@ -1,1 +1,4 @@
-{}
+{
+    "name": "hanterrian/contentBuilder",
+    "description": "Yii2 content builder",
+}
